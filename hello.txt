@@ -5,3 +5,4 @@ set git
 20170321
 201703211105
 git checkout -b dev
+git branch -d dev

@@ -1,0 +1,5 @@
+git add
+git diff
+git log    git log --pretty=oneline
+git commit -m ""
+git reset --hard
